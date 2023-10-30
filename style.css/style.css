@@ -1,0 +1,10 @@
+.bgHeader {
+    background-color:#000324;
+}
+
+.navbar-nav .nav-link {
+    color: #FFFFFF;
+    font-family: Dosis;
+    font-size: 20px;
+    font-weight: regular;
+}
