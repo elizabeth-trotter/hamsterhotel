@@ -27,7 +27,6 @@
 .background-header-centertxt {
     background-color: #000324;
     height: 232px;
-    /* width: 945px; */
     opacity: 0.8;
 }
 
@@ -64,4 +63,14 @@ p {
     color: #1A1B26;
     opacity: 1;
     margin-top: 22px;
+}
+
+.background-welcome-img {
+    background-image: url(../images/hamsterhomejpg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 416px;
+    width: 369px;
+    opacity: 1;
 }
