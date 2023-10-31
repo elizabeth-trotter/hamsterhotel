@@ -26,8 +26,8 @@
 
 .background-header-centertxt {
     background-color: #000324;
-    
-
+    height: 232px;
+    /* width: 945px; */
     opacity: 0.8;
 }
 
@@ -37,6 +37,7 @@
     letter-spacing: 0px;
     color: #E5FEFF;
     opacity: 1;
+    margin-top: 59px;
 }
 
 .background-header-centertxt p {
@@ -45,6 +46,7 @@
     letter-spacing: 0px;
     color: #E5FEFF;
     opacity: 1;
+    margin-top: 14px;
 }
 
 h2 {
