@@ -140,3 +140,28 @@
     margin-bottom: 31px;
 }
 
+.card .card-title {
+    text-align: left;
+    font: normal normal normal 25px/32px 'Dosis';
+    letter-spacing: 0px;
+    color: #1A1B26;
+    opacity: 1;
+}
+
+.card .card-text {
+    text-align: left;
+    font: normal normal normal 16px/20px 'Source Sans 3';
+    letter-spacing: 0px;
+    color: #1A1B26;
+    opacity: 1;
+}
+
+ul {
+    list-style-position: inside;
+    padding-left: 0;
+}
+
+ul li span {
+    position: relative;
+    left: -10px;
+}
