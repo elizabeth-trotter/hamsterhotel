@@ -159,6 +159,7 @@
 ul {
     list-style-position: inside;
     padding-left: 0;
+    line-height: 2.5;
 }
 
 ul li span {
