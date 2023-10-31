@@ -1,3 +1,4 @@
+/* Header */
 .background-navigation {
     background-color: #000324;
     opacity: 1;
@@ -5,7 +6,7 @@
 
 .navbar-nav .nav-link {
     text-align: left;
-    font: normal normal normal 20px/26px Dosis;
+    font: normal normal normal 20px/26px 'Dosis', sans-serif;
     letter-spacing: 0px;
     color: #FFFFFF;
     opacity: 1;
@@ -32,7 +33,7 @@
 
 .background-header-centertxt h1 {
     text-align: center;
-    font: normal normal normal 45px/57px Dosis;
+    font: normal normal normal 45px/57px 'Dosis', sans-serif;
     letter-spacing: 0px;
     color: #E5FEFF;
     opacity: 1;
@@ -41,28 +42,36 @@
 
 .background-header-centertxt p {
     text-align: center;
-    font: normal normal normal 16px/20px Source Sans Pro;
+    font: normal normal normal 16px/20px 'Source Sans 3', sans-serif;
     letter-spacing: 0px;
     color: #E5FEFF;
     opacity: 1;
     margin-top: 14px;
 }
 
-h2 {
+/* Header */
+
+/* Main */
+.container .col-8 h2 {
     text-align: left;
-    font: normal normal normal 35px/44px Dosis;
+    font: normal normal normal 35px/44px 'Dosis', sans-serif;
     letter-spacing: 0px;
     color: #1A1B26;
     opacity: 1;
+    margin-top: 100px;
+    margin-left: 12px;
+    margin-right: 100px;
 }
 
-p {
+.container .col-8 p {
     text-align: left;
-    font: normal normal normal 16px/20px Source Sans Pro;
+    font: normal normal normal 16px/20px 'Source Sans 3', sans-serif;
     letter-spacing: 0px;
     color: #1A1B26;
     opacity: 1;
     margin-top: 22px;
+    margin-left: 12px;
+    margin-right: 100px;
 }
 
 .background-welcome-img {
@@ -73,4 +82,61 @@ p {
     height: 416px;
     width: 369px;
     opacity: 1;
+    margin-top: 109px;
+    margin-left: 50px;
 }
+
+.left-award-img {
+    background-image: url(../images/awardfinest.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    height: 153px;
+    width: 200px;
+    opacity: 1;
+    margin-left: 12px;
+    margin-right: 50px;
+}
+
+.middle-award-img {
+    background-image: url(../images/awardsatisfaction.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    height: 193px;
+    width: 200px;
+    opacity: 1;
+    margin-right: 70px;
+}
+
+.right-award-img {
+    background-image: url(../images/awardgenuine.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    height: 175px;
+    width: 200px;
+    opacity: 1;
+    margin-right: 75px;
+}
+
+.background-rooms-img {
+    background-image: url(../images/bg2.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 738px;
+    opacity: 1;
+    margin-top: 91px;
+}
+
+.background-rooms-img h3 {
+    text-align: center;
+    font: normal normal normal 35px/44px 'Dosis', sans-serif;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    margin-top: 31px;
+    margin-bottom: 31px;
+}
+
