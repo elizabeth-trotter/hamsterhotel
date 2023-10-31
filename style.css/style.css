@@ -159,10 +159,18 @@
 ul {
     list-style-position: inside;
     padding-left: 0;
+    padding-right: 0;
     line-height: 2.5;
+    white-space: nowrap;
 }
 
 ul li span {
     position: relative;
     left: -10px;
+}
+
+.beach-side-reserve-button {
+    position: relative;
+    left: 0rem;
+    bottom: 0.5rem;
 }
