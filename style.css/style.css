@@ -174,3 +174,49 @@ ul li span {
     left: 0rem;
     bottom: 0.5rem;
 }
+
+.packages-header {
+    text-align: center;
+    font: normal normal normal 35px/44px 'Dosis';
+    letter-spacing: 0px;
+    color: #1A1B26;
+    opacity: 1;
+    margin-top: 106.5px;
+    margin-bottom: 19.5px;
+}
+
+.hamster-wedding-img {
+    background-image: url(../images/hamsterwedding.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 234px;
+    width: 561px;
+    opacity: 1;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+.hamster-spring-img {
+    background-image: url(../images/hamsterspring.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 234px;
+    width: 561px;
+    opacity: 1;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+
+.hamster-cheese-img {
+    background-image: url(../images/hamstercheese.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 234px;
+    width: 561px;
+    opacity: 1;
+    margin-top: 0px;
+    margin-left: 0px;
+}
