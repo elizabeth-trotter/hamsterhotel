@@ -249,3 +249,43 @@ ul li span {
     opacity: 1;
     padding-top: 10px;
 }
+
+.amenities-background-img {
+    background-image: url(../images/bg.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 548px;
+    opacity: 1;
+}
+
+.amenities-text-header {
+    text-align: center;
+    font: normal normal normal 35px/44px 'Dosis';
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    margin-top: 45px;
+}
+
+.amenities-text-body {
+    text-align: center;
+    font: normal normal normal 16px/20px 'Source Sans 3';
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    margin-top: 17px;
+}
+
+.amenities-text-imgcaption {
+    text-align: right;
+    font: normal normal bold 20px/25px 'Source Sans 3';
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+/* .amenities-icons {
+    display: flex;
+    justify-content: end;
+} */
