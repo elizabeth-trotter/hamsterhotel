@@ -301,7 +301,59 @@ ul li span {
     opacity: 1;
 }
 
-/* .amenities-icons {
-    display: flex;
-    justify-content: end;
+.background-reserve {
+    background-color: #000324;
+    opacity: 1;
+    height: 207px;
+    /* width: 1137px; */
+    margin-top: 101px;
+}
+
+.reserve-text-header {
+    text-align: center;
+    font: normal normal normal 35px/44px 'Dosis';
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+    margin-top: 23.5px;
+    margin-bottom: 25.5px;
+}
+
+.reserve-front-img {
+    background-image: url(../images/hamsterreserve.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 414px;
+    width: 1137px;
+    opacity: 1;
+}
+
+.reserve-form-label-text {
+    text-align: left;
+    font: normal normal normal 16px/20px 'Source Sans 3';
+    letter-spacing: 0px;
+    color: #E5FEFF;
+    opacity: 1;
+}
+
+/* .reserve-check-button {
+    background: #006EDB 0% 0% no-repeat padding-box;
+    border: 1px solid #000DC7;
+    opacity: 1;
 } */
+
+.footer-background-img {
+    background-color: #000324;
+    opacity: 1;
+    height: 300px;
+    margin-top: 101px;
+}
+
+.footer-text {
+    text-align: center;
+    font: normal normal normal 16px/20px 'Source Sans 3';
+    letter-spacing: 0px;
+    color: #E5FEFF;
+    opacity: 1;
+}
