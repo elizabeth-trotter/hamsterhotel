@@ -219,4 +219,33 @@ ul li span {
     opacity: 1;
     margin-top: 0px;
     margin-left: 0px;
+    margin-bottom: 95px;
+}
+
+.packages-text-header {
+    text-align: left;
+    font: normal normal normal 25px/32px 'Dosis';
+    letter-spacing: 0px;
+    color: #1A1B26;
+    opacity: 1;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.packages-text-price {
+    text-align: left;
+    font: normal normal normal 16px/20px 'Source Sans 3';
+    letter-spacing: 0px;
+    color: #1F51A8;
+    opacity: 1;
+    padding-top: 10px;
+}
+
+.packages-text-info {
+    text-align: left;
+    font: normal normal normal 16px/20px 'Source Sans 3';
+    letter-spacing: 0px;
+    color: #1A1B26;
+    opacity: 1;
+    padding-top: 10px;
 }
