@@ -277,8 +277,24 @@ ul li span {
     margin-top: 17px;
 }
 
-.amenities-text-imgcaption {
+.amenities-text-imgcaption-left {
     text-align: right;
+    font: normal normal bold 20px/25px 'Source Sans 3';
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.amenities-text-imgcaption-center {
+    text-align: center;
+    font: normal normal bold 20px/25px 'Source Sans 3';
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
+.amenities-text-imgcaption-right {
+    text-align: left;
     font: normal normal bold 20px/25px 'Source Sans 3';
     letter-spacing: 0px;
     color: #FFFFFF;
