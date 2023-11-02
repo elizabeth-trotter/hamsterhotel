@@ -353,6 +353,13 @@ ul li span {
     margin-top: 101px;
 }
 
+.background-reserve-mobile {
+    background-color: #000324;
+    opacity: 1;
+    height: 540px;
+    margin-top: 101px;
+}
+
 .reserve-text-header {
     text-align: center;
     font: normal normal normal 35px/44px 'Dosis';
