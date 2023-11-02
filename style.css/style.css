@@ -169,6 +169,14 @@ ul li span {
     left: -10px;
 }
 
+.reserve-button {
+    text-align: left;
+    font: normal normal bold 20px/25px 'Source Sans 3';
+    letter-spacing: 0px;
+    color: #FFFFFF;
+    opacity: 1;
+}
+
 .beach-side-reserve-button {
     position: relative;
     left: 0rem;
@@ -334,6 +342,14 @@ ul li span {
     font: normal normal normal 16px/20px 'Source Sans 3';
     letter-spacing: 0px;
     color: #E5FEFF;
+    opacity: 1;
+}
+
+.reserve-form-avail-button {
+    text-align: center;
+    font: normal normal bold 20px/25px 'Source Sans 3';
+    letter-spacing: 0px;
+    color: #FFFFFF;
     opacity: 1;
 }
 
