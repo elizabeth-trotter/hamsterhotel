@@ -1,10 +1,10 @@
-# Hamster Hotel :hamster: :hotel:
+# Hamster Hotel :hamster:
 
 **Name:** Elizabeth Trotter
 
 **Project Description:** I was given a mockup and tasked with making it into a functioning website using `HTML`, `CSS`, and `Bootstrap`. I was also required to ensure the website was `responsive` for all screen sizes. Although it was a bit of a learning curve working with responsiveness for the first time, I enjoyed the challenge. 
 
-Also, I am a fellow pet enthusiast :feet: so this was a super fun and cute project to work on!
+***Also, I am a fellow pet enthusiast :feet: so this was a super fun and cute project to work on!***
 
 **Links**
 - Click [Hamster Hotel](https://hamsterhotel-five.vercel.app/) to visit the `deployed website`
