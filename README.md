@@ -6,6 +6,7 @@
 
 *Also, I am a fellow pet enthusiast :feet: so this was a super fun and cute project to work on!*
 
+
 **Links**
 - Click [Hamster Hotel](https://hamsterhotel-five.vercel.app/) to visit the `deployed website`
 
